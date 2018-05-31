@@ -18,7 +18,7 @@ namespace ChessWebPart.VisualWebPart1
     public class VisualWebPart1 : ContextualWebPart
     {
         // Visual Studio might automatically update this path when you change the Visual Web Part project item.
-        private const string _ascxPath = @"~/_CONTROLTEMPLATES/ChessWebPart/VisualWebPart1/VisualWebPart1UserControl.ascx";
+        private const string _ascxPath = @"~/_CONTROLTEMPLATES/15/ChessWebPart/VisualWebPart1/VisualWebPart1UserControl.ascx";
 
         protected override void CreateChildControls()
         {
@@ -54,8 +54,8 @@ namespace ChessWebPart.VisualWebPart1
                                         CommandJavaScript = "window.location.reload();",
                                         Image = new ImageDefinition() 
                                         { 
-                                            Url16 = "/_layouts/images/ChessWebPart/new16.png", 
-                                            Url32 = "/_layouts/images/ChessWebPart/new32.png"
+                                            Url16 = "/_LAYOUTS/15/images/ChessWebPart/new16.png", 
+                                            Url32 = "/_LAYOUTS/15/images/ChessWebPart/new32.png"
                                         }
                                     },
                                     new ButtonDefinition()
@@ -89,8 +89,8 @@ namespace ChessWebPart.VisualWebPart1
                                         Title="Promote",
                                         Image = new ImageDefinition()
                                         {
-                                            Url16 = "/_layouts/images/ChessWebPart/promote16.png",
-                                            Url32 = "/_layouts/images/ChessWebPart/promote32.png"
+                                            Url16 = "/_LAYOUTS/15/images/ChessWebPart/promote16.png",
+                                            Url32 = "/_LAYOUTS/15/images/ChessWebPart/promote32.png"
                                         },
                                         Controls = new ControlDefinition[]
                                         {
@@ -99,28 +99,28 @@ namespace ChessWebPart.VisualWebPart1
                                                 Id = "Queen",
                                                 Title = "Queen",
                                                 CommandJavaScript = "chessPromotion = 0; SP.UI.Notify.addNotification('Pawn now promotes to queen');",
-                                                Image = new ImageDefinition() { Url32 = "/_layouts/images/ChessWebPart/5.gif" }
+                                                Image = new ImageDefinition() { Url32 = "/_LAYOUTS/15/images/ChessWebPart/5.gif" }
                                             },
                                             new ButtonDefinition()
                                             {
                                                 Id = "Bishop",
                                                 Title = "Bishop",
                                                 CommandJavaScript = "chessPromotion = 1; SP.UI.Notify.addNotification('Pawn now promotes to bishop');",
-                                                Image = new ImageDefinition() { Url32 = "/_layouts/images/ChessWebPart/4.gif" }
+                                                Image = new ImageDefinition() { Url32 = "/_LAYOUTS/15/images/ChessWebPart/4.gif" }
                                             },
                                             new ButtonDefinition()
                                             {
                                                 Id = "Knight",
                                                 Title = "Knight",
                                                 CommandJavaScript = "chessPromotion = 2; SP.UI.Notify.addNotification('Pawn now promotes to knight');",
-                                                Image = new ImageDefinition() { Url32 = "/_layouts/images/ChessWebPart/3.gif" }
+                                                Image = new ImageDefinition() { Url32 = "/_LAYOUTS/15/images/ChessWebPart/3.gif" }
                                             },
                                             new ButtonDefinition()
                                             {
                                                 Id = "Rook",
                                                 Title = "Rook",
                                                 CommandJavaScript = "chessPromotion = 3; SP.UI.Notify.addNotification('Pawn now promotes to rook');",
-                                                Image = new ImageDefinition() { Url32 = "/_layouts/images/ChessWebPart/2.gif" }
+                                                Image = new ImageDefinition() { Url32 = "/_LAYOUTS/15/images/ChessWebPart/2.gif" }
                                             }
                                         }
                                     },

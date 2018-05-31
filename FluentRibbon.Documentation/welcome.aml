@@ -61,8 +61,8 @@ new ButtonDefinition()
     CommandJavaScript = "window.location.reload();",
     Image = new ImageDefinition()
     { 
-    	Url16 = "/_layouts/images/ChessWebPart/new16.png",
-    	Url32 = "/_layouts/images/ChessWebPart/new32.png"
+    	Url16 = "/_LAYOUTS/15/images/ChessWebPart/new16.png",
+    	Url32 = "/_LAYOUTS/15/images/ChessWebPart/new32.png"
     }
 }
 		</code>
