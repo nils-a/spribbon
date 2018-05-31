@@ -7,12 +7,12 @@
 <%@ Register Tagprefix="WebPartPages" Namespace="Microsoft.SharePoint.WebPartPages" Assembly="Microsoft.SharePoint, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" %>
 <%@ Control Language="C#" AutoEventWireup="true" CodeBehind="VisualWebPart1UserControl.ascx.cs" Inherits="ChessWebPart.VisualWebPart1.VisualWebPart1UserControl" %>
 
-<SharePoint:CssRegistration runat="server" Name="/_LAYOUTS/15/ ChessWebPart/chess_6k.css" />
+<SharePoint:CssRegistration runat="server" Name="/_LAYOUTS/15/ChessWebPart/chess_6k.css" />
 
 <table>
 <tbody>
 <td>
-<script type="text/javascript" src="/_LAYOUTS/15/ ChessWebPart/chess_6k.js"></script>
+<script type="text/javascript" src="/_LAYOUTS/15/ChessWebPart/chess_6k.js"></script>
 </td>
 <td>
 <textarea id="chessMoves" name="chessMoves" cols="12" rows="18"></textarea>

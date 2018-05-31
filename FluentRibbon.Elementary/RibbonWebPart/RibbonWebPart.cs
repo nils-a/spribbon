@@ -17,7 +17,7 @@ namespace FluentRibbon.Elementary.WebParts
     public class RibbonWebPart : ContextualWebPart
     {
         // Visual Studio might automatically update this path when you change the Visual Web Part project item.
-        private const string _ascxPath = @"~/_CONTROLTEMPLATES/15/ FluentRibbon.Elementary/RibbonWebPart/RibbonWebPartUserControl.ascx";
+        private const string _ascxPath = @"~/_CONTROLTEMPLATES/15/FluentRibbon.Elementary/RibbonWebPart/RibbonWebPartUserControl.ascx";
 
         protected override void CreateChildControls()
         {
@@ -50,7 +50,7 @@ namespace FluentRibbon.Elementary.WebParts
                                     {
                                         Id = "Label",
                                         Title = "Enter your data:",
-                                        Image = new ImageDefinition() { Url16 = "/_LAYOUTS/15/ images/wpedit.gif" },
+                                        Image = new ImageDefinition() { Url16 = "/_LAYOUTS/15/images/wpedit.gif" },
                                         ForId = "TextBox"
                                     },
                                     new TextBoxDefinition() 
@@ -62,7 +62,7 @@ namespace FluentRibbon.Elementary.WebParts
                                     {
                                         Id = "Button",
                                         Title = "Save!",
-                                        Image = new ImageDefinition() { Url16 = "/_LAYOUTS/15/ images/saveitem.gif" },
+                                        Image = new ImageDefinition() { Url16 = "/_LAYOUTS/15/images/saveitem.gif" },
                                         CommandJavaScript = "var value = document.getElementById('Ribbon.Tab1.Group1.TextBox').value; alert(value); window.fluentTextBoxText = value;"
                                     }
                                 }
@@ -80,7 +80,7 @@ namespace FluentRibbon.Elementary.WebParts
                                     {
                                         Id = "Label",
                                         Title = "Select your data:",
-                                        Image = new ImageDefinition() { Url16 = "/_LAYOUTS/15/ images/wpedit.gif" },
+                                        Image = new ImageDefinition() { Url16 = "/_LAYOUTS/15/images/wpedit.gif" },
                                         ForId = "DropDown"
                                     },
                                     new DropDownDefinition()
@@ -108,7 +108,7 @@ namespace FluentRibbon.Elementary.WebParts
                                     {
                                         Id = "Button",
                                         Title = "Save!",
-                                        Image = new ImageDefinition() { Url16 = "/_LAYOUTS/15/ images/saveitem.gif" },
+                                        Image = new ImageDefinition() { Url16 = "/_LAYOUTS/15/images/saveitem.gif" },
                                         CommandJavaScript = "alert(document.getElementById('Ribbon.Tab1.Group2.DropDown').parentElement.innerText);"
                                     }
                                 }
@@ -166,14 +166,14 @@ namespace FluentRibbon.Elementary.WebParts
                                                 Id = "Button1",
                                                 Title = "MRU test 1",
                                                 CommandJavaScript = "alert('mru test 1')",
-                                                Image = new ImageDefinition() { Url32 = "/_LAYOUTS/15/ images/gbsmpset.gif" }
+                                                Image = new ImageDefinition() { Url32 = "/_LAYOUTS/15/images/gbsmpset.gif" }
                                             },
                                             new ButtonDefinition()
                                             {
                                                 Id = "Button2",
                                                 Title = "MRU test 2",
                                                 CommandJavaScript = "alert('mru test 2')",
-                                                Image = new ImageDefinition() { Url32 = "/_LAYOUTS/15/ images/lg_ICASCX.gif" }
+                                                Image = new ImageDefinition() { Url32 = "/_LAYOUTS/15/images/lg_ICASCX.gif" }
                                             }
                                         }
                                     },
@@ -181,7 +181,7 @@ namespace FluentRibbon.Elementary.WebParts
                                     {
                                         Id = "SplitButton",
                                         Title = "Split button",
-                                        Image = new ImageDefinition() { Url32 = "/_LAYOUTS/15/ images/LG_DATASOURCE.gif" },
+                                        Image = new ImageDefinition() { Url32 = "/_LAYOUTS/15/images/LG_DATASOURCE.gif" },
                                         CommandJavaScript = "alert('split test!'); document.getElementById('Ribbon.Tab2.Group.SplitButton-Large').style.display = 'none';",
                                         Controls = new ControlDefinition[]
                                         {
@@ -190,14 +190,14 @@ namespace FluentRibbon.Elementary.WebParts
                                                 Id = "Button1",
                                                 Title = "Split test 1",
                                                 CommandJavaScript = "alert('split test 1')",
-                                                Image = new ImageDefinition() { Url32 = "/_LAYOUTS/15/ images/lg_ICACCDB.gif" }
+                                                Image = new ImageDefinition() { Url32 = "/_LAYOUTS/15/images/lg_ICACCDB.gif" }
                                             },
                                             new ButtonDefinition()
                                             {
                                                 Id = "Button2",
                                                 Title = "Split test 2",
                                                 CommandJavaScript = "alert('split test 2')",
-                                                Image = new ImageDefinition() { Url32 = "/_LAYOUTS/15/ images/lg_ICASAX.gif" }
+                                                Image = new ImageDefinition() { Url32 = "/_LAYOUTS/15/images/lg_ICASAX.gif" }
                                             }
                                         }
                                     }

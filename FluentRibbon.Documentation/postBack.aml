@@ -101,7 +101,7 @@ public class VisualWebPart1 : ContextualWebPart
 		                        {
 		                            Id = "Label",
 		                            Title = "Enter your data:",
-		                            Image = new ImageDefinition() { Url16 = "/_LAYOUTS/15/ images/wpedit.gif" },
+		                            Image = new ImageDefinition() { Url16 = "/_LAYOUTS/15/images/wpedit.gif" },
 		                            ForId = "TextBox"
 		                        },
 		                        new TextBoxDefinition() 
@@ -113,7 +113,7 @@ public class VisualWebPart1 : ContextualWebPart
 		                        {
 		                            Id = "Button",
 		                            Title = "Save!",
-		                            Image = new ImageDefinition() { Url16 = "/_LAYOUTS/15/ images/saveitem.gif" },
+		                            Image = new ImageDefinition() { Url16 = "/_LAYOUTS/15/images/saveitem.gif" },
 		                            CommandJavaScript = 
 										String.Format("__doPostBack('{0}',{1});"), 
 											textBoxPostbackId,

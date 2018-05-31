@@ -1,6 +1,6 @@
 var chessPromotion = 0;
 var chessDifficulty = 2;
-var imagesPath = "/_LAYOUTS/15/ images/ChessWebPart/";
+var imagesPath = "/_LAYOUTS/15/images/ChessWebPart/";
 M = I = P = N = q = K = J = Btime = 0
 Bt = 1999
 Al = -Bt

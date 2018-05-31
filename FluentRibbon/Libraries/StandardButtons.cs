@@ -43,8 +43,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core, cui_BDCImport;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 10,
 							Y = 3
 						},
@@ -86,8 +86,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core, cui_BDCDelete;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 4,
 							Y = 4
 						},
@@ -129,8 +129,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core, cui_BDCExport;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 10,
 							Y = 10
 						},
@@ -172,8 +172,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core, cui_BDCSetPermissions;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 13,
 							Y = 0
 						},
@@ -215,8 +215,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core, cui_BDCAssignAdminsLabel;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 11,
 							Y = 0
 						},
@@ -258,8 +258,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core, cui_BDCSettings;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 9,
 							Y = 10
 						},
@@ -301,8 +301,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core, cui_BDCDelete;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 4,
 							Y = 4
 						},
@@ -344,8 +344,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core, cui_BDCAddAction;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 10,
 							Y = 1
 						},
@@ -387,8 +387,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core, cui_BDCEditAction;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 10,
 							Y = 2
 						},
@@ -430,8 +430,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core, cui_BDCDeleteAction;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 4,
 							Y = 4
 						},
@@ -477,8 +477,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButListFormSave;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 8,
 							Y = 13
 						},
@@ -520,8 +520,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,ButCheckin;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 6,
 							Y = 13
 						},
@@ -563,8 +563,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButListFormCancel;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 9,
 							Y = 14
 						},
@@ -606,8 +606,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,ButPasteMenu;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 14,
 							Y = 0
 						},
@@ -649,8 +649,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,ButCut;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
 							X = 1,
 							Y = 0
 						},
@@ -692,8 +692,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,ButCopy;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
 							X = 0,
 							Y = 0
 						},
@@ -735,8 +735,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButDeleteItem;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 4,
 							Y = 4
 						},
@@ -778,8 +778,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,ButCheckin;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 6,
 							Y = 13
 						},
@@ -821,8 +821,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,ButCheckout;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 5,
 							Y = 5
 						},
@@ -864,8 +864,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButVersionHistory;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 14,
 							Y = 2
 						},
@@ -907,8 +907,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButDocListFormEditExportWebPart;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 10,
 							Y = 0
 						},
@@ -950,8 +950,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButDocListFormEditViewWebPartXml;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 10,
 							Y = 13
 						},
@@ -993,8 +993,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButListFormDisplayManagePermissions;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 13,
 							Y = 0
 						},
@@ -1040,8 +1040,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButEditItem;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 3,
 							Y = 4
 						},
@@ -1083,8 +1083,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButListFormDisplayEditSeries;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 10,
 							Y = 6
 						},
@@ -1126,8 +1126,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButVersionHistory;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 14,
 							Y = 2
 						},
@@ -1169,8 +1169,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButListFormDisplayManagePermissions;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 13,
 							Y = 0
 						},
@@ -1212,8 +1212,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButDeleteItem;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 4,
 							Y = 4
 						},
@@ -1255,8 +1255,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,ButCheckin;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 6,
 							Y = 13
 						},
@@ -1298,8 +1298,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,ButCheckout;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 5,
 							Y = 5
 						},
@@ -1341,8 +1341,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButListFormDisplayAlert;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 2,
 							Y = 4
 						},
@@ -1384,8 +1384,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButApproveReject;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 12,
 							Y = 14
 						},
@@ -1427,8 +1427,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButManageCopies;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 9,
 							Y = 7
 						},
@@ -1470,8 +1470,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButWorkflows;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 13,
 							Y = 6
 						},
@@ -1513,8 +1513,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButListFormDisplayEnterFolder;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 6,
 							Y = 10
 						},
@@ -1556,8 +1556,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButListFormDisplayClaimReleaseTask;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 4,
 							Y = 12
 						},
@@ -1599,8 +1599,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButListFormDisplayDistributionListsApproval;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 12,
 							Y = 14
 						},
@@ -1642,8 +1642,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButListFormDisplayDeleteItemVersion;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 4,
 							Y = 4
 						},
@@ -1685,8 +1685,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButListFormDisplayRestoreItemVersion;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 3,
 							Y = 13
 						},
@@ -1728,8 +1728,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButListFormDisplayHealthRuleRunNow;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 11,
 							Y = 10
 						},
@@ -1771,8 +1771,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButListFormDisplayHealthReportRunNow;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 11,
 							Y = 10
 						},
@@ -1814,8 +1814,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButListFormDisplayHealthReportRepair;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 1,
 							Y = 9
 						},
@@ -1857,8 +1857,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_SolutionTabCommandActivate;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ images/edit.gif",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/images/edit.gif",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 9,
 							Y = 3
 						},
@@ -1900,8 +1900,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_SolutionTabCommandDeactivate;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ images/edit.gif",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/images/edit.gif",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 6,
 							Y = 11
 						},
@@ -1943,8 +1943,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_SolutionTabCommandUpgrade;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ images/edit.gif",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/images/edit.gif",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 9,
 							Y = 4
 						},
@@ -1990,8 +1990,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButListFormSave;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 8,
 							Y = 13
 						},
@@ -2033,8 +2033,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButListFormCancel;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 9,
 							Y = 14
 						},
@@ -2076,8 +2076,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,ButPasteMenu;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 14,
 							Y = 0
 						},
@@ -2119,8 +2119,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,ButCut;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
 							X = 1,
 							Y = 0
 						},
@@ -2162,8 +2162,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,ButCopy;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
 							X = 0,
 							Y = 0
 						},
@@ -2205,8 +2205,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButDeleteItem;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 4,
 							Y = 4
 						},
@@ -2248,8 +2248,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButListFormDisplayEditSeries;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 10,
 							Y = 6
 						},
@@ -2291,8 +2291,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButListFormDisplayClaimReleaseTask;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 4,
 							Y = 12
 						},
@@ -2334,8 +2334,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButAttachFile;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 4,
 							Y = 11
 						},
@@ -2377,8 +2377,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButListFormDisplayDistributionListsApproval;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 12,
 							Y = 14
 						},
@@ -2424,8 +2424,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButPostFormPublish;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 4,
 							Y = 13
 						},
@@ -2467,8 +2467,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButPostFormSaveAsDraft;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 11,
 							Y = 1
 						},
@@ -2510,8 +2510,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButListFormCancel;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 9,
 							Y = 14
 						},
@@ -2553,8 +2553,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,ButPasteMenu;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 14,
 							Y = 0
 						},
@@ -2596,8 +2596,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,ButCut;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
 							X = 1,
 							Y = 0
 						},
@@ -2639,8 +2639,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,ButCopy;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
 							X = 0,
 							Y = 0
 						},
@@ -2682,8 +2682,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButDeleteItem;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 4,
 							Y = 4
 						},
@@ -2725,8 +2725,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButListFormDisplayEditSeries;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 10,
 							Y = 6
 						},
@@ -2772,8 +2772,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_SvcAppDeleteText;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 4,
 							Y = 4
 						},
@@ -2815,8 +2815,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_SvcAppManageText;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 8,
 							Y = 11
 						},
@@ -2858,8 +2858,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_SvcAppAdministratorsText;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 9,
 							Y = 11
 						},
@@ -2901,8 +2901,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_SvcAppPropertiesText;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 0,
 							Y = 8
 						},
@@ -2944,8 +2944,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_SvcAppPublishText;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 7,
 							Y = 11
 						},
@@ -2987,8 +2987,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_SvcAppPermissionsText;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 9,
 							Y = 2
 						},
@@ -3034,8 +3034,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_SolutionTabUploadSolution;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ images/edit.gif",
-							Url32 = "/_LAYOUTS/15/ images/MenuUploadDocument.gif"
+							Url16 = "/_LAYOUTS/15/images/edit.gif",
+							Url32 = "/_LAYOUTS/15/images/MenuUploadDocument.gif"
 						},
 						ToolTip = new ToolTipDefinition()
 						{
@@ -3075,8 +3075,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_SolutionTabCommandDelete;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 4,
 							Y = 4
 						},
@@ -3118,8 +3118,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_SolutionTabCommandActivate;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ images/SolutionActivate_16x16.png",
-							Url32 = "/_LAYOUTS/15/ images/SolutionActivate_32x32.png"
+							Url16 = "/_LAYOUTS/15/images/SolutionActivate_16x16.png",
+							Url32 = "/_LAYOUTS/15/images/SolutionActivate_32x32.png"
 						},
 						ToolTip = new ToolTipDefinition()
 						{
@@ -3159,8 +3159,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_SolutionTabCommandDeactivate;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ images/SolutionDeactivate_16x16.png",
-							Url32 = "/_LAYOUTS/15/ images/SolutionDeactivate_32x32.png"
+							Url16 = "/_LAYOUTS/15/images/SolutionDeactivate_16x16.png",
+							Url32 = "/_LAYOUTS/15/images/SolutionDeactivate_32x32.png"
 						},
 						ToolTip = new ToolTipDefinition()
 						{
@@ -3200,8 +3200,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_SolutionTabCommandUpgrade;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ images/SolutionUpgrade_16x16.png",
-							Url32 = "/_LAYOUTS/15/ images/SolutionUpgrade_32x32.png"
+							Url16 = "/_LAYOUTS/15/images/SolutionUpgrade_16x16.png",
+							Url32 = "/_LAYOUTS/15/images/SolutionUpgrade_32x32.png"
 						},
 						ToolTip = new ToolTipDefinition()
 						{
@@ -3245,8 +3245,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,ButRenamePage;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 10,
 							Y = 5
 						},
@@ -3288,8 +3288,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,ButVersionDiff;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 8,
 							Y = 12
 						},
@@ -3331,8 +3331,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,ButPermissions;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 13,
 							Y = 0
 						},
@@ -3374,8 +3374,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,DeletePage;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 4,
 							Y = 4
 						},
@@ -3417,8 +3417,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButEmailLink;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 14,
 							Y = 4
 						},
@@ -3460,8 +3460,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,ButSetHomePage;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 7,
 							Y = 6
 						},
@@ -3503,8 +3503,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButIncomingLinks;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 13,
 							Y = 11
 						},
@@ -3546,8 +3546,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButLibSettings;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 3,
 							Y = 8
 						},
@@ -3589,8 +3589,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButLibraryPermissions;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 13,
 							Y = 0
 						},
@@ -3632,8 +3632,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButViewAllPages;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 7,
 							Y = 12
 						},
@@ -3679,8 +3679,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,ButApprove;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 3,
 							Y = 0
 						},
@@ -3722,8 +3722,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,ButReject;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 1,
 							Y = 0
 						},
@@ -3765,8 +3765,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButWorkflows;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 13,
 							Y = 6
 						},
@@ -3812,8 +3812,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,versions;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 3,
 							Y = 7
 						},
@@ -3855,8 +3855,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,permissions;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 13,
 							Y = 0
 						},
@@ -3898,8 +3898,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,DeletePage;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 4,
 							Y = 4
 						},
@@ -3941,8 +3941,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButEmailLink;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 14,
 							Y = 4
 						},
@@ -3984,8 +3984,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_PageStateApproveLabel;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 3,
 							Y = 0
 						},
@@ -4027,8 +4027,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_PageStateRejectLabel;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 1,
 							Y = 0
 						},
@@ -4070,8 +4070,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButWorkflows;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 13,
 							Y = 6
 						},
@@ -4113,8 +4113,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,make_home_page;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 7,
 							Y = 6
 						},
@@ -4156,8 +4156,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,ButEditTitleBar;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 10,
 							Y = 5
 						},
@@ -4204,7 +4204,7 @@ namespace FluentRibbon.Libraries
 						Image = new ImageDefinition()
 						{
 							Url16 = "",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 11,
 							Y = 6
 						},
@@ -4247,7 +4247,7 @@ namespace FluentRibbon.Libraries
 						Image = new ImageDefinition()
 						{
 							Url16 = "",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 4,
 							Y = 9
 						},
@@ -4289,7 +4289,7 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_WebAppFeaturesText;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
 							Url32 = ""
 						},
 						ToolTip = new ToolTipDefinition()
@@ -4330,7 +4330,7 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_WebAppPathsText;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
 							Url32 = ""
 						},
 						ToolTip = new ToolTipDefinition()
@@ -4371,7 +4371,7 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_WebAppConnectionsText;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
 							Url32 = ""
 						},
 						ToolTip = new ToolTipDefinition()
@@ -4412,8 +4412,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_WebAppAuthProvidersText;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 3,
 							Y = 9
 						},
@@ -4456,7 +4456,7 @@ namespace FluentRibbon.Libraries
 						Image = new ImageDefinition()
 						{
 							Url16 = "",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 11,
 							Y = 5
 						},
@@ -4498,7 +4498,7 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_WebAppBlockedFilesText;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
 							Url32 = ""
 						},
 						ToolTip = new ToolTipDefinition()
@@ -4539,7 +4539,7 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_WebAppUserPermissionsText;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
 							Url32 = ""
 						},
 						ToolTip = new ToolTipDefinition()
@@ -4580,7 +4580,7 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_WebAppWebPartText;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
 							Url32 = ""
 						},
 						ToolTip = new ToolTipDefinition()
@@ -4621,8 +4621,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_WebAppGeneralPolicyText;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 11,
 							Y = 7
 						},
@@ -4664,8 +4664,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_WebAppAnonymousText;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 11,
 							Y = 9
 						},
@@ -4707,8 +4707,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_WebAppPermissionPolicyText;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 6,
 							Y = 9
 						},
@@ -4755,7 +4755,7 @@ namespace FluentRibbon.Libraries
 						Image = new ImageDefinition()
 						{
 							Url16 = "",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 12,
 							Y = 8
 						},
@@ -4798,7 +4798,7 @@ namespace FluentRibbon.Libraries
 						Image = new ImageDefinition()
 						{
 							Url16 = "",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 4,
 							Y = 4
 						},
@@ -4841,7 +4841,7 @@ namespace FluentRibbon.Libraries
 						Image = new ImageDefinition()
 						{
 							Url16 = "",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 3,
 							Y = 4
 						},
@@ -4884,7 +4884,7 @@ namespace FluentRibbon.Libraries
 						Image = new ImageDefinition()
 						{
 							Url16 = "",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 13,
 							Y = 0
 						},
@@ -4927,7 +4927,7 @@ namespace FluentRibbon.Libraries
 						Image = new ImageDefinition()
 						{
 							Url16 = "",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 8,
 							Y = 7
 						},
@@ -4973,8 +4973,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_NewTrustLabel;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 12,
 							Y = 7
 						},
@@ -5016,8 +5016,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_EditTrustLabel;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 0,
 							Y = 8
 						},
@@ -5059,8 +5059,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_DeleteTrustLabel;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 4,
 							Y = 4
 						},
@@ -5106,8 +5106,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,ButCut;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
 							X = 1,
 							Y = 0
 						},
@@ -5149,8 +5149,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,ButCopy;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
 							X = 0,
 							Y = 0
 						},
@@ -5192,7 +5192,7 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
 							Url32 = ""
 						},
 						ToolTip = new ToolTipDefinition()
@@ -5233,7 +5233,7 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
 							Url32 = ""
 						},
 						ToolTip = new ToolTipDefinition()
@@ -5274,7 +5274,7 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
 							Url32 = ""
 						},
 						ToolTip = new ToolTipDefinition()
@@ -5319,8 +5319,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButInsertLink;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 14,
 							Y = 5
 						},
@@ -5362,8 +5362,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButInsertDocument;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 2,
 							Y = 7
 						},
@@ -5405,8 +5405,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,ButInsertWebPart;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 13,
 							Y = 9
 						},
@@ -5448,8 +5448,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,ButInsertExistingList;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 1,
 							Y = 6
 						},
@@ -5491,8 +5491,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,ButInsertNewList;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 13,
 							Y = 10
 						},
@@ -5538,8 +5538,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButNewFolder;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 10,
 							Y = 14
 						},
@@ -5581,8 +5581,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButEditDocument;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 1,
 							Y = 8
 						},
@@ -5624,8 +5624,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,ButCheckout;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 5,
 							Y = 5
 						},
@@ -5667,8 +5667,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,ButCheckin;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 6,
 							Y = 13
 						},
@@ -5710,8 +5710,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,ButDiscardCheckout;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 5,
 							Y = 13
 						},
@@ -5753,8 +5753,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,ButViewProperties;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 14,
 							Y = 3
 						},
@@ -5796,8 +5796,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,ButEditProperties;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 3,
 							Y = 4
 						},
@@ -5839,8 +5839,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,ButVersionHistory;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 14,
 							Y = 2
 						},
@@ -5882,8 +5882,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButDocumentPermissions;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 13,
 							Y = 0
 						},
@@ -5925,8 +5925,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButDeleteDocument;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 4,
 							Y = 4
 						},
@@ -5968,8 +5968,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButEmailLink;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 14,
 							Y = 4
 						},
@@ -6011,8 +6011,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButDownloadCopy;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 10,
 							Y = 0
 						},
@@ -6054,8 +6054,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButManageCopies;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 9,
 							Y = 7
 						},
@@ -6097,8 +6097,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButGoToSource;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 3,
 							Y = 11
 						},
@@ -6140,8 +6140,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButWorkflows;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 13,
 							Y = 6
 						},
@@ -6183,8 +6183,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,ButPublish;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 4,
 							Y = 13
 						},
@@ -6226,8 +6226,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,ButUnpublish;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 2,
 							Y = 2
 						},
@@ -6269,8 +6269,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButApproveReject;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 12,
 							Y = 14
 						},
@@ -6312,8 +6312,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButCancelApproval;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 0,
 							Y = 0
 						},
@@ -6355,8 +6355,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButRepairItems;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 10,
 							Y = 9
 						},
@@ -6398,8 +6398,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButRepairAllItems;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 3,
 							Y = 10
 						},
@@ -6441,8 +6441,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButMergeDocuments;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 4,
 							Y = 10
 						},
@@ -6488,8 +6488,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButNewRow;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 12,
 							Y = 5
 						},
@@ -6531,8 +6531,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButShowTaskPane", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 7,
 							Y = 8
 						},
@@ -6574,8 +6574,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButShowTotals;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 8,
 							Y = 14
 						},
@@ -6617,8 +6617,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButRefreshData;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 7,
 							Y = 14
 						},
@@ -6660,8 +6660,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButAllMeetings;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 14,
 							Y = 14
 						},
@@ -6703,8 +6703,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButCreateView;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 11,
 							Y = 11
 						},
@@ -6746,8 +6746,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButCreateColumn;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 11,
 							Y = 3
 						},
@@ -6789,8 +6789,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButNavigateUp;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 0,
 							Y = 2
 						},
@@ -6832,7 +6832,7 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButPreviousPage;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
 							Url32 = ""
 						},
 						ToolTip = new ToolTipDefinition()
@@ -6873,7 +6873,7 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButNextPage;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
 							Url32 = ""
 						},
 						ToolTip = new ToolTipDefinition()
@@ -6914,8 +6914,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButEmailLink;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 14,
 							Y = 4
 						},
@@ -6957,8 +6957,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButViewRSSFeed;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 4,
 							Y = 7
 						},
@@ -7000,8 +7000,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButSyncToComputer;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 7,
 							Y = 9
 						},
@@ -7043,8 +7043,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButConnectToClient;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 11,
 							Y = 4
 						},
@@ -7086,8 +7086,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButExportToSpreadsheet;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 0,
 							Y = 11
 						},
@@ -7129,8 +7129,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButOpenWithExplorer;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 11,
 							Y = 2
 						},
@@ -7172,8 +7172,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButEditLibrary;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 11,
 							Y = 12
 						},
@@ -7215,8 +7215,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButAddButton;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 1,
 							Y = 10
 						},
@@ -7258,8 +7258,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButLibSettings;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 3,
 							Y = 8
 						},
@@ -7301,8 +7301,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButLibraryPermissions;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 13,
 							Y = 0
 						},
@@ -7348,8 +7348,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButNewFolder;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 10,
 							Y = 14
 						},
@@ -7391,8 +7391,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButViewItem;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 14,
 							Y = 3
 						},
@@ -7434,8 +7434,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButEditItem;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 3,
 							Y = 4
 						},
@@ -7477,8 +7477,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButVersionHistory;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 14,
 							Y = 2
 						},
@@ -7520,8 +7520,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButItemPermissions;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 13,
 							Y = 0
 						},
@@ -7563,8 +7563,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButDeleteItem;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 4,
 							Y = 4
 						},
@@ -7606,8 +7606,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButAttachFile;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 4,
 							Y = 11
 						},
@@ -7649,8 +7649,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButChangeItemOrder;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 9,
 							Y = 6
 						},
@@ -7692,8 +7692,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButWorkflows;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 13,
 							Y = 6
 						},
@@ -7735,8 +7735,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButApproveReject;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 12,
 							Y = 14
 						},
@@ -7782,8 +7782,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButNewRow;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 12,
 							Y = 5
 						},
@@ -7825,8 +7825,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButShowTaskPane", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 7,
 							Y = 8
 						},
@@ -7868,8 +7868,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButShowTotals;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 8,
 							Y = 14
 						},
@@ -7911,8 +7911,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButRefreshData;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 7,
 							Y = 14
 						},
@@ -7954,8 +7954,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButGanttZoomIn;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 6,
 							Y = 14
 						},
@@ -7997,8 +7997,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButGanttZoomOut;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 1,
 							Y = 2
 						},
@@ -8040,8 +8040,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButGanttScrollToTask;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 11,
 							Y = 14
 						},
@@ -8083,8 +8083,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButAllMeetings;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 14,
 							Y = 14
 						},
@@ -8126,8 +8126,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButCreateView;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 11,
 							Y = 11
 						},
@@ -8169,8 +8169,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButCreateColumn;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 11,
 							Y = 3
 						},
@@ -8212,8 +8212,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButNavigateUp;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 0,
 							Y = 2
 						},
@@ -8255,7 +8255,7 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButPreviousPage;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
 							Url32 = ""
 						},
 						ToolTip = new ToolTipDefinition()
@@ -8296,7 +8296,7 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButNextPage;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
 							Url32 = ""
 						},
 						ToolTip = new ToolTipDefinition()
@@ -8337,8 +8337,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButEmailLink;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 14,
 							Y = 4
 						},
@@ -8380,8 +8380,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButViewRSSFeed;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 4,
 							Y = 7
 						},
@@ -8423,8 +8423,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButSyncToComputer;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 7,
 							Y = 9
 						},
@@ -8466,8 +8466,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButConnectToClient;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 11,
 							Y = 4
 						},
@@ -8509,8 +8509,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButExportToSpreadsheet;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 0,
 							Y = 11
 						},
@@ -8552,8 +8552,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButCreateVisioDiagram;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 9,
 							Y = 9
 						},
@@ -8595,8 +8595,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButOpenWithAccess;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 0,
 							Y = 9
 						},
@@ -8638,8 +8638,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButExportToProject;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 1,
 							Y = 11
 						},
@@ -8681,8 +8681,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButEditList;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 11,
 							Y = 12
 						},
@@ -8724,8 +8724,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButAddButton;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 1,
 							Y = 10
 						},
@@ -8767,8 +8767,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButListSettings;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 12,
 							Y = 0
 						},
@@ -8810,8 +8810,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButListPermissions;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 13,
 							Y = 0
 						},
@@ -8857,8 +8857,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,ButRemoveLink;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 5,
 							Y = 4
 						},
@@ -8904,8 +8904,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,ButTableRowsColsInsertAbove;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 1,
 							Y = 3
 						},
@@ -8947,8 +8947,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,ButTableRowsColsInsertBelow;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 14,
 							Y = 13
 						},
@@ -8990,8 +8990,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,ButTableRowsColsInsertLeft;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 2,
 							Y = 3
 						},
@@ -9033,8 +9033,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,ButTableRowsColsInsertRight;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 14,
 							Y = 12
 						},
@@ -9080,8 +9080,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,Text;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 1,
 							Y = 1
 						},
@@ -9123,8 +9123,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,image;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 14,
 							Y = 6
 						},
@@ -9166,8 +9166,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,webpart;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 13,
 							Y = 9
 						},
@@ -9209,8 +9209,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,ButInsertExistingList;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 1,
 							Y = 6
 						},
@@ -9256,8 +9256,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,wp_props;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 5,
 							Y = 12
 						},
@@ -9299,8 +9299,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,minimize;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 5,
 							Y = 7
 						},
@@ -9342,8 +9342,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,restore;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 6,
 							Y = 7
 						},
@@ -9385,8 +9385,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,deleteButton;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 6,
 							Y = 12
 						},
@@ -9432,8 +9432,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButViewEvent;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 14,
 							Y = 3
 						},
@@ -9475,8 +9475,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButEditEvent;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 3,
 							Y = 4
 						},
@@ -9518,8 +9518,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButVersionHistory;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 14,
 							Y = 2
 						},
@@ -9561,8 +9561,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButEventPermissions;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 13,
 							Y = 0
 						},
@@ -9604,8 +9604,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButDeleteEvent;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 4,
 							Y = 4
 						},
@@ -9647,8 +9647,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButAttachFile;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 4,
 							Y = 11
 						},
@@ -9690,8 +9690,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButWorkflows;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 13,
 							Y = 6
 						},
@@ -9733,8 +9733,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButApproveReject;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 12,
 							Y = 14
 						},
@@ -9780,8 +9780,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_CalendarResource;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 3,
 							Y = 12
 						},
@@ -9823,8 +9823,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_CalendarExpand;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 0,
 							Y = 12
 						},
@@ -9866,8 +9866,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_CalendarCollapse;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 8,
 							Y = 3
 						},
@@ -9909,8 +9909,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_CalendarAddCalendar;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 12,
 							Y = 11
 						},
@@ -9952,8 +9952,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButCreateView;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 11,
 							Y = 11
 						},
@@ -9995,8 +9995,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButCreateColumn;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 11,
 							Y = 3
 						},
@@ -10038,8 +10038,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButEmailLink;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 14,
 							Y = 4
 						},
@@ -10081,8 +10081,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButViewRSSFeed;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 4,
 							Y = 7
 						},
@@ -10124,8 +10124,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButConnectToClient;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 11,
 							Y = 4
 						},
@@ -10167,8 +10167,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButExportToSpreadsheet;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 0,
 							Y = 11
 						},
@@ -10210,8 +10210,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButOpenWithAccess;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 0,
 							Y = 9
 						},
@@ -10253,8 +10253,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButEditList;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 11,
 							Y = 12
 						},
@@ -10296,8 +10296,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButListSettings;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 12,
 							Y = 0
 						},
@@ -10339,8 +10339,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButListPermissions;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 13,
 							Y = 0
 						},
@@ -10386,8 +10386,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ManageParent;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 5,
 							Y = 8
 						},
@@ -10429,8 +10429,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_Inherit;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 12,
 							Y = 2
 						},
@@ -10472,8 +10472,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_StopInherit;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 12,
 							Y = 1
 						},
@@ -10515,8 +10515,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButtonAddUser;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 9,
 							Y = 5
 						},
@@ -10558,8 +10558,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ButtonNewGroup;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 12,
 							Y = 4
 						},
@@ -10601,8 +10601,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_EditUsrPerm;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 12,
 							Y = 3
 						},
@@ -10644,8 +10644,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_RemovePerms;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 4,
 							Y = 8
 						},
@@ -10687,8 +10687,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_CheckUsrPerm;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 6,
 							Y = 8
 						},
@@ -10730,8 +10730,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_AnonyAccess;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 2,
 							Y = 8
 						},
@@ -10773,8 +10773,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_PermLevels;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 9,
 							Y = 8
 						},
@@ -10816,8 +10816,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_ManageAccReq;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 2,
 							Y = 11
 						},
@@ -10859,8 +10859,8 @@ namespace FluentRibbon.Libraries
 						Title = SPUtility.GetLocalizedString("$Resources:core,cui_SiteColAdmin;", "core", (uint)lcid),
 						Image = new ImageDefinition()
 						{
-							Url16 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap16x16.png",
-							Url32 = "/_LAYOUTS/15/ $Resources:core,Language;/images/formatmap32x32.png",
+							Url16 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap16x16.png",
+							Url32 = "/_LAYOUTS/15/$Resources:core,Language;/images/formatmap32x32.png",
 							X = 5,
 							Y = 11
 						},

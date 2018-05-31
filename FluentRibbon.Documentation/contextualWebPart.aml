@@ -45,7 +45,7 @@
 public class VisualWebPart1 : ContextualWebPart
 {
     // Visual Studio might automatically update this path when you change the Visual Web Part project item.
-    private const string _ascxPath = @"~/_CONTROLTEMPLATES/15/ VisualWebPartTestProject/VisualWebPart2/VisualWebPart2UserControl.ascx";
+    private const string _ascxPath = @"~/_CONTROLTEMPLATES/15/VisualWebPartTestProject/VisualWebPart2/VisualWebPart2UserControl.ascx";
 
     protected override void CreateChildControls()
     {
@@ -78,7 +78,7 @@ public class VisualWebPart1 : ContextualWebPart
 	                            {
 	                                Id = "TestButton",
 	                                Title = "Test alert",
-	                                Image = new ImageDefinition() { Url32 = "/_LAYOUTS/15/ images/erroricon.png" },
+	                                Image = new ImageDefinition() { Url32 = "/_LAYOUTS/15/images/erroricon.png" },
 	                                CommandJavaScript = "alert('test')"
 	                            }
 	                        }
