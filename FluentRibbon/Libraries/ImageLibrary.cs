@@ -23,8 +23,8 @@ namespace FluentRibbon.Libraries
         {
             return new ImageDefinition()
                 {
-                    Url16 = "/_layouts/1033/images/formatmap16x16.png",
-                    Url32 = "/_layouts/1033/images/formatmap32x32.png",
+                    Url16 = "/_LAYOUTS/15/ 1033/images/formatmap16x16.png",
+                    Url32 = "/_LAYOUTS/15/ 1033/images/formatmap32x32.png",
                     X = x,
                     Y = y
                 };
@@ -41,8 +41,8 @@ namespace FluentRibbon.Libraries
         {
             return new ImageDefinition()
             {
-                Url16 = "/_layouts/" + lcid.ToString() + "/images/formatmap16x16.png",
-                Url32 = "/_layouts/" + lcid.ToString() + "/images/formatmap32x32.png",
+                Url16 = "/_LAYOUTS/15/ " + lcid.ToString() + "/images/formatmap16x16.png",
+                Url32 = "/_LAYOUTS/15/ " + lcid.ToString() + "/images/formatmap32x32.png",
                 X = x,
                 Y = y
             };
